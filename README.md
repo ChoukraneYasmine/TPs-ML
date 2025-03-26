@@ -13,6 +13,8 @@ This repository contains practical assignments (TPs) from my 4th-year Machine Le
 
 5. Regularization & Feature Selection
 
+6. Support Vectors Machines and optimization 
+
 ## Notes
 - Each TP includes theory, implementation, and analysis.
 
